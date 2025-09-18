@@ -1,0 +1,14 @@
+streamlit==1.37.1
+ultralytics==8.2.103
+opencv-python-headless==4.10.0.84
+pillow==10.4.0
+numpy==1.26.4
+pandas==2.2.2
+bcrypt==4.1.3
+pyyaml==6.0.2
+# CPU-only PyTorch; sufficient for Streamlit Cloud
+torch==2.2.2
+torchvision==0.17.2
+
+
+
